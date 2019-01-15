@@ -2,5 +2,5 @@
     document.getElementById("image1").style.border = "3px solid red";
 }
 function borderOut() {
-    document.getElementById("image1").style.border = "none";
+    document.getElementById("image1").style.border = "none"; // ou 0
 }
